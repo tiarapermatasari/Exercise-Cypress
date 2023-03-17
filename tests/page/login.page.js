@@ -1,0 +1,6 @@
+export const UsernameField = '#Username'
+export const PasswordField = '#Password'
+export const ButtonLogin = '[name="login"]'
+export const WelcomeText = '/html/body/div/div/h3' 
+export const Logout = '//*[@id="navbarColor01"]/form/ul/li[2]/a'
+export const LoginText = '/html/body/div/div[1]/form/table/tbody/tr[1]/td[2]'

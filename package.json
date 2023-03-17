@@ -1,0 +1,17 @@
+{
+  "name": "iteracypress",
+  "version": "1.0.0",
+  "description": "Exercise Bootcamp Cypress Automation",
+  "main": "index.js",
+  "author": "Tiara",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.7.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "babel-plugin-module-resolver": "^5.0.0",
+    "prettier": "^2.8.4"
+  }
+}

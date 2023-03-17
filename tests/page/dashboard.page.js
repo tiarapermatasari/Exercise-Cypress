@@ -1,0 +1,8 @@
+export const ButtonCreate = '/html/body/div/div/p[1]/a'
+export const Name = '#Name'
+export const Company = '#Company'
+export const Address = '#Address'
+export const City = '#City'
+export const Phone = '#Phone'
+export const Email = '#Email'
+export const ButtonSubmit = '/html/body/div/form/div/div[7]/div/input'
